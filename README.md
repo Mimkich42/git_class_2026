@@ -13,3 +13,5 @@ Adding a new line
 I modified this locally.
 
 Another modification!
+
+This is a local modification
