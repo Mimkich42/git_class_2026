@@ -11,3 +11,5 @@ This is edited in GitHub
 Adding a new line
 
 I modified this locally.
+
+Another modification!
