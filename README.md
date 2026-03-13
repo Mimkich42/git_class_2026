@@ -5,3 +5,5 @@ This is an exercise I made for the Git 2026 class to improve my understanding of
 
 
 Adding a new line
+
+I modified this locally.
